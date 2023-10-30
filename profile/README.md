@@ -1,8 +1,24 @@
-# pulsate-dev
+***_Easy-to-change, faster, developer friendly next generation decentralized social media._***  
 
-Easy-to-change, faster, developer friendly Misskey alternative.
+Pulsate is the next generation of **faster** and **developer friendly** distributed social networking (and of course user friendly).
 
-- [Official Website](https://pulsate.dev/)
-- [Official Discord Server](https://link.pulsate.dev/discord)
-- [Official X](https://link.pulsate.dev/x)
-- [Official YouTube](https://link.pulsate.dev/youtube)
+Pulsate is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.
+
+Pulsate development is mainly deployed on [GitHub][github] / [Discord][discord].
+
+Let's make Pulsate with all users and developers! 💙
+
+#### Community
+
+- [Pulsate Community Discussions][github]
+- [Discord][discord]
+
+#### Related Sites
+
+- [Website](https://pulsate.dev/)
+- [Discord Server](https://link.pulsate.dev/discord)
+- [X](https://link.pulsate.dev/x)
+- [YouTube](https://link.pulsate.dev/youtube)
+
+[github]: https://link.pulsate.dev/community
+[discord]: https://link.pulsate.dev/discord
