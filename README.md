@@ -1,0 +1,9 @@
+# pulsate-dev/.github
+
+[pulsate-dev](https://github.com/pulsate-dev) のメタファイルを管理する `.github` リポジトリ.
+
+----
+
+- `profle/README.md`: Org Overview に表示される README
+- `CODE_OF_CONDUCT.md`: 行動規範
+- `CODE_OF_CONDUCT_JA.md`: 行動規範 (日本語)
