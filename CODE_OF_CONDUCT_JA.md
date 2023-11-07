@@ -1,6 +1,6 @@
 # 行動規範
 
-**最終更新:** 2021-10-19
+**最終更新:** 2023-10-19
 
 [English Version](./CODE_OF_CONDUCT.md)
 
