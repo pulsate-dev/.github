@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**Last updated:** 2021-10-19
+**Last updated:** 2023-10-19
 
 [日本語版](./CODE_OF_CONDUCT_JA.md)
 
