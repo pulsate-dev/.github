@@ -1,10 +1,8 @@
 ***_Easy-to-change, faster, developer friendly next generation decentralized social media._***  
 
-Pulsate is the next generation of **faster** and **developer friendly** distributed social networking (and of course user friendly).
+Pulsate is the next generation of **faster** and **developer-friendly** distributed SNS (and of course user-friendly). It is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.
 
-Pulsate is being developed with the goal of becoming a powerful alternative to existing distributed SNSs in the future.
-
-Pulsate development is mainly deployed on [GitHub][github] / [Discord][discord].
+Pulsate development is mainly deployed on [GitHub][github] and [Discord][discord].
 
 Let's make Pulsate with all users and developers! 💙
 
@@ -16,7 +14,6 @@ Let's make Pulsate with all users and developers! 💙
 #### Related Sites
 
 - [Website](https://pulsate.dev/)
-- [Discord Server](https://link.pulsate.dev/discord)
 - [X](https://link.pulsate.dev/x)
 - [YouTube](https://link.pulsate.dev/youtube)
 
