@@ -6,16 +6,13 @@ Pulsate development is mainly deployed on [GitHub][github] and [Discord][discord
 
 Let's make Pulsate with all users and developers! 💙
 
-#### Community
+----
 
-- [Pulsate Community Discussions][github]
+- [GitHub][github]
 - [Discord][discord]
-
-#### Related Sites
-
 - [Website](https://pulsate.dev/)
 - [X](https://link.pulsate.dev/x)
 - [YouTube](https://link.pulsate.dev/youtube)
 
-[github]: https://link.pulsate.dev/community
+[github]: https://link.pulsate.dev/github
 [discord]: https://link.pulsate.dev/discord
