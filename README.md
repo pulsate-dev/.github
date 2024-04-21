@@ -6,4 +6,3 @@
 
 - `profle/README.md`: Org Overview に表示される README
 - `CODE_OF_CONDUCT.md`: 行動規範
-- `CODE_OF_CONDUCT_JA.md`: 行動規範 (日本語)
