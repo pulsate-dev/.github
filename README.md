@@ -6,5 +6,3 @@
 
 - `profle/README.md`: Org Overview に表示される README
 - `CODE_OF_CONDUCT.md`: 行動規範
-- `FUNDING.yml`: スポンサーのメタファイル
-
